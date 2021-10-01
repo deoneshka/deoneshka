@@ -20,6 +20,8 @@
 <img align="left" alt="JavaScript" width="80px" src="./icons/npm.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/node.js.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/mongodb.png" /> -->
+<div style="display: flex; flex-direction: column;">
 <img align="left" alt="JavaScript" width="80px" src="./icons/html.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/css.png" />
 <img align="left" alt="JavaScript" width="75px" src="./icons/js.png" />
+</div>
