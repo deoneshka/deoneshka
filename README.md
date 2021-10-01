@@ -11,15 +11,4 @@
 
 #### My stack and tools
 
-![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=#E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=#1572B6)
-![Sass](https://img.shields.io/badge/Sass-ffffff?style=for-the-badge&logo=Sass&logoColor=#CC6699)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
