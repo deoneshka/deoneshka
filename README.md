@@ -11,4 +11,15 @@
 
 #### My stack and tools
 
-<img align="left" alt="JavaScript" width="80px" src="./icons/api.jpg" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/html.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/css.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/sass.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/bem.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/js.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/react.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/redux.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/react hooks.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/ts.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/npm.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/node.js.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/mongodb.png" />
