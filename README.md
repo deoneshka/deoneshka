@@ -11,4 +11,4 @@
 
 #### My stack and tools
 
-<img align="left" alt="JavaScript" width="32px" src="./icons/api" />
+<img align="left" alt="JavaScript" width="32px" src="./icons/api.jpg" />
