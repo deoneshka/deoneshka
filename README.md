@@ -11,4 +11,4 @@
 
 #### My stack and tools
 
-![css3](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![css3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=GitHub&logoColor=white)
