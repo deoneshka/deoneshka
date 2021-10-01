@@ -2,4 +2,4 @@
 
 Always in touch here <a href="https://t.me/deoneshka">telegram</a>
 
-#### Projects completed during training in GoIT
+### Projects completed during training in GoIT
