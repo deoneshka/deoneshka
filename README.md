@@ -10,7 +10,7 @@
 - [Wallet](https://wallet-tpb.netlify.app/login) (html5, css3, sass, react, redux, axios, node.js, mongodb) - application for fixing the user's expenses and income. Role - front end developer (transaction, statistics).
 
 #### My stack and tools
-<div>
+<div style="display: flex;">
 <img align="left" alt="JavaScript" width="80px" src="./icons/html.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/css.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/sass.png" />
