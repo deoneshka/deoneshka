@@ -24,6 +24,6 @@
   <tr>
     <td valign="middle"><img alt="JavaScript" width="80px" src="./icons/html.png" /></td>
     <td valign="middle"><img alt="JavaScript" width="80px" src="./icons/css.png" /></td>
-    <td valign="middle"><img alt="JavaScript" width="75px" src="./icons/js.png" /></td>
+    <td valign="middle"><img alt="JavaScript" width="80px" src="./icons/js.png" /></td>
   </tr>
  </table>
