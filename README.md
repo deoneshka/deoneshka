@@ -10,16 +10,20 @@
 - [Wallet](https://wallet-tpb.netlify.app/login) (html5, css3, sass, react, redux, axios, node.js, mongodb) - application for fixing the user's expenses and income. Role - front end developer (transaction, statistics).
 
 #### My stack and tools
-<div style="display: flex; align-self: center;">
-<img align="left" alt="JavaScript" width="80px" src="./icons/html.png" />
-<img align="left" alt="JavaScript" width="80px" src="./icons/css.png" />
-<img align="left" alt="JavaScript" width="80px" src="./icons/sass.png" />
-<img align="left" alt="JavaScript" width="75px" src="./icons/js.png" />
+
+
+<!-- <img align="left" alt="JavaScript" width="80px" src="./icons/sass.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/react.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/redux.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/react hooks.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/ts.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/npm.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/node.js.png" />
-<img align="left" alt="JavaScript" width="80px" src="./icons/mongodb.png" />
-</div>
+<img align="left" alt="JavaScript" width="80px" src="./icons/mongodb.png" /> -->
+<table>
+  <tr>
+    <td valign="top"><img alt="JavaScript" width="80px" src="./icons/html.png" /></td>
+    <td valign="top"><img alt="JavaScript" width="80px" src="./icons/css.png" /></td>
+    <td valign="top"><img alt="JavaScript" width="75px" src="./icons/js.png" /></td>
+  </tr>
+ </table>
