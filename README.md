@@ -14,7 +14,7 @@
 <img align="left" alt="JavaScript" width="80px" src="./icons/html.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/css.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/sass.png" />
-<img align="left" alt="JavaScript" width="70px" src="./icons/js.png" />
+<img align="left" alt="JavaScript" width="75px" src="./icons/js.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/react.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/redux.png" />
 <img alt="JavaScript" width="80px" src="./icons/react hooks.png" />
