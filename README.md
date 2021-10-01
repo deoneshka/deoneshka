@@ -11,7 +11,7 @@
 
 #### My stack and tools
 
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=#E34F26)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=css3&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=#1572B6)
+![Sass](https://img.shields.io/badge/Sass-ffffff?style=for-the-badge&logo=Sass&logoColor=#CC6699)
+![github](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=css3&logoColor=white)
