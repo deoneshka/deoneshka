@@ -21,4 +21,4 @@
 <img align="left" alt="JavaScript" width="80px" src="./icons/ts.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/npm.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/node.js.png" />
-<img align="left" alt="JavaScript" width="80px" src="./icons/mongodb.png" />
+<img alt="JavaScript" width="80px" src="./icons/mongodb.png" />
