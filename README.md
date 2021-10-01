@@ -11,12 +11,12 @@
 
 #### My stack and tools
 
-<img alt="JavaScript" width="80px" src="./icons/html.png" />
-<img alt="JavaScript" width="80px" src="./icons/css.png" />
-<img alt="JavaScript" width="80px" src="./icons/sass.png" />
-<img alt="JavaScript" width="80px" src="./icons/js.png" />
-<img alt="JavaScript" width="80px" src="./icons/react.png" />
-<img alt="JavaScript" width="80px" src="./icons/redux.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/html.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/css.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/sass.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/js.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/react.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/redux.png" />
 <img alt="JavaScript" width="80px" src="./icons/react hooks.png" />
 <img alt="JavaScript" width="80px" src="./icons/ts.png" />
 <img alt="JavaScript" width="80px" src="./icons/npm.png" />
