@@ -17,9 +17,9 @@
 <img align="left" alt="JavaScript" width="75px" src="./icons/js.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/react.png" />
 <img align="left" alt="JavaScript" width="80px" src="./icons/redux.png" />
-<img alt="JavaScript" width="80px" src="./icons/react hooks.png" />
-<img alt="JavaScript" width="80px" src="./icons/ts.png" />
-<img alt="JavaScript" width="80px" src="./icons/npm.png" />
-<img alt="JavaScript" width="80px" src="./icons/node.js.png" />
-<img alt="JavaScript" width="80px" src="./icons/mongodb.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/react hooks.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/ts.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/npm.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/node.js.png" />
+<img align="left" alt="JavaScript" width="80px" src="./icons/mongodb.png" />
 </div>
