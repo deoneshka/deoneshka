@@ -11,4 +11,7 @@
 
 #### My stack and tools
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=css3&logoColor=white)]
+![CSS3](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=css3&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=css3&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=css3&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=css3&logoColor=white)
