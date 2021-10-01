@@ -1,5 +1,4 @@
 ### Hi there, I`m Oleh👋
 
-Always in touch here <a href="https://t.me/deoneshka">telegram</a>
-
-### Projects completed during training in GoIT
+#### Projects 
+* [WebStudio](https://deoneshka.github.io/goit-markup-hw-08/index.html) (html5, css3, sass) - a website with a responsive layout.
