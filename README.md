@@ -8,6 +8,7 @@
 - [Image-finder](https://deoneshka.github.io/goit-react-hw-03-image-finder/) (react) - application for displaying images by keyword using Pixabay API.
 - [Phonebook](https://deoneshka-goit-react-hw-09-phonebook.netlify.app/login) (react, redux, axios) - phonebook application for saving user's contacts.
 - [Wallet](https://wallet-tpb.netlify.app/login) (html5, css3, sass, react, redux, axios, node.js, mongodb) - application for fixing the user's expenses and income. Role - front end developer (transaction, statistics).
+- [Node.js hw GoIT](https://github.com/deoneshka/nodejs-hw-02-06-rest-api) (node.js, mongodb) - individual practice while studying node.js.
 
 #### My stack and tools
 
